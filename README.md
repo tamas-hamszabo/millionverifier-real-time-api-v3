@@ -1,4 +1,4 @@
-## Real Time Email Verification on MillionVerifer
+## Real Time Email Verification on MillionVerifier
 Use MillionVerifier's email verification API  to verify email addresses in real time. https://www.millionverifier.com/services/email-verifier-api
 
 You can implement into your application, software or website. Using this API you can prevent invalid and disposable email addresses getting into your subscriber lists.
