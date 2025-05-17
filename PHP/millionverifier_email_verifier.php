@@ -25,8 +25,8 @@ switch($j->resultcode) {
 	case 5:
 		echo "Disposable";
 		break;
-	case 6:
-		echo "Invlaid";
-		break;
+        case 6:
+                echo "Invalid";
+                break;
 }
 
