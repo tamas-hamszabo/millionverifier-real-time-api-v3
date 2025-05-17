@@ -54,7 +54,7 @@ func main() {
     case 5:
         fmt.Println("Disposable")
     case 6:
-        fmt.Println("Invlaid")
+        fmt.Println("Invalid")
     }
 
 }

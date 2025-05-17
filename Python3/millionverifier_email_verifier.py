@@ -27,5 +27,5 @@ elif c == 4:
 elif c == 5:
     print("Disposable")
 elif c == 6:
-    print("Invlaid")
+    print("Invalid")
 
