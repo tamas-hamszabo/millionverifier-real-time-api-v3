@@ -5,7 +5,7 @@ You can implement into your application, software or website. Using this API you
 
 MillionVerifier offers the fastest real time email verification system on the market at incredibly low prices. 
 
-## PHP, Go, Bash, Node, Python
+## PHP, Go, Bash, Node, Python, Java
 There are sample codes in this repository for major programming languages.
 
 ## Easy to use
